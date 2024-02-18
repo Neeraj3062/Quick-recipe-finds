@@ -1,0 +1,35 @@
+.navbar{
+    background: gold;
+    padding: 20px;
+    color: rgb(254, 255, 255);
+}
+
+.navbar nav {
+    display: flex;
+    align-items: center;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+
+.navbar a.brand{
+    margin-right: auto;
+    color: rgb(39, 36, 36);
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.navbar a:last-child{
+    color: rgb(28, 27, 27);
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 8px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.navbar a:last-child:hover{
+   background-color:rgb(255, 255, 255);    
+   color: gold;
+}
