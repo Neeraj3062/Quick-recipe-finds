@@ -194,6 +194,16 @@
       ],
       "method": "dqwdqwd",
       "cookingTime": "20 minutes"
+    },
+    {
+      "id": "bb61",
+      "title": "Chicken Angaara ",
+      "ingredients": [
+        "Chicken",
+        "sauce"
+      ],
+      "method": "Easy",
+      "cookingTime": "20 minutes"
     }
   ]
 }
